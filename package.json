@@ -1,6 +1,6 @@
 {
   "name": "js-img-type",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple image type detector for nodejs",
   "license": "MIT",
   "repository": "larevuegeek/js-img-type",

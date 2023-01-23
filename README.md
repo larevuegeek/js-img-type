@@ -1,8 +1,6 @@
 # js-img-type
 A simple image type detector for nodejs, you can also test the type of file like isJpeg or isPng
 
-[![Build Status](https://travis-ci.org/larevuegeek/js-img-type.svg?branch=master)](https://travis-ci.org/larevuegeek/js-img-type)
-
 ## Installation
 `npm install js-img-type`
 
