@@ -1,0 +1,48 @@
+{
+  "name": "js-img-type",
+  "version": "1.0.0",
+  "description": "A simple image type detector for nodejs",
+  "license": "MIT",
+  "repository": "larevuegeek/js-img-type",
+  "author": {
+    "name": "larevuegeek"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "png",
+    "jpeg",
+    "gif",
+    "bmp",
+    "tif",
+    "tiff",
+    "raw",
+    "cr2",
+    "arw",
+    "crw",
+    "dng",
+    "isRaw",
+    "isJpeg",
+    "isPng",
+    "isGif",
+    "isSvg",
+    "isWebp",
+    "isBmp",
+    "image",
+    "img",
+    "pic",
+    "picture",
+    "photo",
+    "type",
+    "detect",
+    "check",
+    "is",
+    "exif",
+    "buffer",
+    "uint8array"
+  ]
+}
